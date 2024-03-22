@@ -15,7 +15,10 @@ Looking at the code, you can see how the value in the LED register updates(is sh
 
 If possible bring your board and design to class to show it off.
 
-Remember to add the IO for any switches or buttons to both the Chisel code and vivado .xdc constraints file!
+
+**Notes:**
+- Use the included test file to simulate your design, it is configured to output a .vcd waveform file. 
+- Remember to add the IO for any switches or buttons to both the Chisel code and vivado .xdc constraints file!
 
 **Getting the Repo:**
 ```bash
